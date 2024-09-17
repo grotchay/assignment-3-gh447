@@ -1,0 +1,14 @@
+---
+title: "Grace"
+author: "A. Grace Haynes"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Grace has two cats named Ropopo and Squealy Dan
+- She is training for a marathon in December
+- She likes (and works with) bugs

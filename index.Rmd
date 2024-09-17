@@ -1,0 +1,17 @@
+---
+title: "Grace's Part of the Collaborative Website"
+author: "A. Grace Haynes"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Grace](https://github.com/grotchay)
+
+[Mirza](https://github.com/mirzaaarsyad/)
+
+
+![A sweet kitty](https://d2zp5xs5cp8zlg.cloudfront.net/image-78260-800.jpg)
