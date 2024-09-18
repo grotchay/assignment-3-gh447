@@ -17,7 +17,11 @@ output: html_document
 <br>
 - I love watching, cooking, and specially eating 
 <br>
-- From Makassar which is located in Southeast Sulawesi, Indonesia, and very popular with its cuisine 
+- From Makassar which is located in Southeast Sulawesi, Indonesia, and very popular with its cuisine
+
+<br>
+Here are some photos
+
 <br>
 
 ![Makassar map. Source: https://localityretics.wordpress.com/wp-content/uploads/2014/11/makassar_map_1.jpg?w=640](https://localityretics.wordpress.com/wp-content/uploads/2014/11/makassar_map_1.jpg?w=640)
